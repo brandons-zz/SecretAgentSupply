@@ -149,15 +149,8 @@ footer {
     display: block;
   }
 
-  .local-hours .item {
-    width:47%;
-  }
-
   .photo-grid {
     display: block;
   }
 
-  .photo-grid-item {
-    width:90%
-  }
 }
