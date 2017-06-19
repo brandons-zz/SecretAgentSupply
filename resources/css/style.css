@@ -144,13 +144,18 @@ footer {
   color:white;
 }
 
-@media (max-width: 400px) {
+@media only screen and (max-width: 650px) {
+
   .local-hours {
     display: block;
+    justify-content:space-around;
+    background-color: lightblue;
   }
 
   .photo-grid {
     display: block;
+
+
   }
 
 }
